@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pawankurada
 - 👀 I’m interested in everything data
 - 🌱 I’m currently learning how to be a better learner
-- 💞️ I’m looking to collaborate on bothing particular, open to ideas
+- 💞️ I’m looking to collaborate on nothing particular, open to ideas
 - 📫 How to reach me: pawan.kurada@gmail.com
 
 <!---
